@@ -9,6 +9,7 @@ Feel free to use those assets for your own tools, it is used for the following o
 ## Assets Requirements
 
 - file extension: `.png`
+- file content should be a square asset of `256x256`
 - file name: should be your `valoper_address.png` 
 - file directory: assets are stored per network `chain-id`
 
