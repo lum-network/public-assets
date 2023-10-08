@@ -32,4 +32,4 @@ Feel free to use those assets for your own tools, it is used for the following o
     git commit -m “Add <VALIDATOR MONIKER> logo”
     git push origin <branch_name>
     ```
-5. From your repository, make pull reuqest (PR)
+5. From your repository, make pull request (PR)
